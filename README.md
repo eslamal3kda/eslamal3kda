@@ -101,18 +101,8 @@ A modern e-book library UI designed for future scalability and API integration.
   </a>
 
   <a href="https://eslamal3kda.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=netlify" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamal3kda&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamal3kda&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
